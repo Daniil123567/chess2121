@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+html {
+    color:white;
+}
+h1 {
+    text-align:center;
+    font-size:50px;
+}
+img {
+    width:567px;
+    height:500px;
+}
+div {
+    text-align:center;
+    opacity:1;
+}
+div:hover {
+    text-align:center;
+    opacity:0;
+}
+b {
+    text-align:center;
+    font-size:30px;
+}
+ul {
+    color:white;
+}
+.chess:hover {
+    width:567px;
+    height:500px;
+    position: absolute;
+    top: 126px;
+    left: 166px;
+    opacity:1;
+
+}
+.chess {
+    width:567px;
+    height:500px;
+    position: absolute;
+    top: 126px;
+    left: 166px;
+    opacity:0;
+}
+
