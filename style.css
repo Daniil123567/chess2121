@@ -32,7 +32,7 @@ ul {
     height:500px;
     position: absolute;
     top: 126px;
-    left: 166px;
+    left: 266px;
     opacity:1;
 
 }
@@ -41,20 +41,14 @@ ul {
     height:500px;
     position: absolute;
     top: 126px;
-    left: 166px;
+    left: 266px;
     opacity:0;
 }
-
-
-    opacity:1;
-
+.chessf {
+      text-align:center;
 }
-.chess {
-    width:567px;
-    height:500px;
-    position: absolute;
-    top: 126px;
-    left: 166px;
-    opacity:0;
-}
+
+
+
+
 
