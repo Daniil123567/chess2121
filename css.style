@@ -45,3 +45,16 @@ ul {
     opacity:0;
 }
 
+
+    opacity:1;
+
+}
+.chess {
+    width:567px;
+    height:500px;
+    position: absolute;
+    top: 126px;
+    left: 166px;
+    opacity:0;
+}
+
