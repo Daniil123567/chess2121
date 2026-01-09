@@ -15,12 +15,8 @@ img {
 }
 div {
     text-align:center;
-    opacity:1;
 }
-div:hover {
-    text-align:center;
-    opacity:0;
-}
+
 b {
     text-align:center;
     font-size:30px;
