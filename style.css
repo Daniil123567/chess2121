@@ -33,7 +33,6 @@ ul {
     height:500px;
     position: absolute;
     top: 126px;
-    left: 700px;
     opacity:1;
     text-align:center;
 
@@ -43,7 +42,6 @@ ul {
     height:500px;
     position: absolute;
     top: 126px;
-    left: 700px;
     opacity:0;
     text-align:center;
 }
