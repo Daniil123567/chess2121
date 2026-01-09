@@ -11,6 +11,7 @@ h1 {
 img {
     width:567px;
     height:500px;
+    border: 5px double cadetblue;
 }
 div {
     text-align:center;
@@ -45,8 +46,5 @@ ul {
     opacity:0;
 }
 .chessf {
-      text-align:center;
+    text-align:center;
 }
-
-
-
