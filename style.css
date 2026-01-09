@@ -33,19 +33,16 @@ ul {
     height:500px;
     position: absolute;
     top: 126px;
-    left: 166px
+    left: 266px
     opacity:1;
-    text-align:center;
-    text-align:center;
 }
 .chess {
     width:567px;
     height:500px;
     position: absolute;
     top: 126px;
-    left: 166px;
+    left: 266px;
     opacity:0;
-    text-align:center;
 }
 .chessf {
     text-align:center;
