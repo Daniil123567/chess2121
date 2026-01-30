@@ -1,5 +1,7 @@
+
 body {
     background-color: black;
+    font-family: sans-serif;
 }
 html {
     color:white;
@@ -12,34 +14,51 @@ img {
     width:567px;
     height:500px;
     border: 5px double cadetblue;
+    animation-duration: 2s;
+    position:relative ;
+    animation-name: img;
+    animation-delay: 3s;
 }
-div {
-    text-align:center;
-}
-
 b {
     text-align:center;
     font-size:30px;
 }
 ul {
     color:white;
+    font-size:20px;
 }
-.chess:hover {
-    width:567px;
-    height:500px;
-    position: absolute;
-    top: 126px;
-    left: 266px
-    opacity:1;
-}
-.chess {
-    width:567px;
-    height:500px;
-    position: absolute;
-    top: 126px;
-    left: 266px;
-    opacity:0;
-}
+
 .chessf {
     text-align:center;
 }
+footer {
+    color:white;
+}
+footer:hover {
+    color:red;
+    transition:3s color liner ;
+}
+@keyframes img {
+  from {left: 0; }
+  to {left: 175px; }
+}
+a {
+  color:white;
+  background-color: mediumspringgreen;
+   border-radius:25px;
+   margin:10px;
+   padding:5px; 
+}
+p {
+  font-size:20px;
+}
+li {
+    font-size:20px;
+}
+
+
+
+
+
+
+
