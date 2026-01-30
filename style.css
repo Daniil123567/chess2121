@@ -43,11 +43,12 @@ footer:hover {
   to {left: 175px; }
 }
 a {
-  color:white;
+  color:darkslateblue;
   background-color: mediumspringgreen;
    border-radius:25px;
    margin:10px;
    padding:5px; 
+   font-size:30px;
 }
 p {
   font-size:20px;
